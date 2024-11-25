@@ -1,0 +1,33 @@
+h1{
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    font-weight: bolder;
+    background-color: black;
+    text-shadow: 10px 4px 10px yellow;
+    text-decoration: underline;
+}
+
+h1:hover{
+    color: gold;
+    text-shadow: 15px 4px 8px black;
+    background-color: lightblue;
+}
+
+
+img{
+    max-width: 300px;
+    max-height: 200px;
+    aspect-ratio: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+
+}
+
+img:hover{
+    opacity: 0.8;
+
+}
